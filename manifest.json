@@ -1,0 +1,16 @@
+﻿{
+  "name": "Text to Speech Converter",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Text to Speech Converter",
+  "permissions": [
+    "tts"
+  ],
+  "action": {
+    "default_title": "Text to Speech Converter",
+    "default_popup": "index.html",
+    "default_icon": {
+      "32": "speaking.png"
+    }
+  }
+}
